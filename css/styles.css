@@ -1,15 +1,11 @@
 header {
-    background-color: darkslategrey;
+    background-color: black;
 }
 
 footer {
-    background-color: darkslategrey;
+    background-color: black;
 }
 
-.review {
-    background-color: lightgrey;
-}
-
-.img {
+#review {
     background-color: lightgrey;
 }
