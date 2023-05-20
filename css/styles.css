@@ -1,11 +1,17 @@
 header {
-    background-color: black;
+    background-color: rgb(77, 76, 76);
 }
 
 footer {
-    background-color: black;
+    background-color: rgb(77, 76, 76);
 }
 
 #review {
     background-color: lightgrey;
+}
+
+#thatone {
+    background-color: red;
+    text-decoration: none;
+    color: white;
 }
